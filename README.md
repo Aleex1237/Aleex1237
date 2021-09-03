@@ -1,6 +1,6 @@
-### Hola a todos! | Hi everyone! <img src="https://user-images.githubusercontent.com/84038648/131946864-caf8431f-454f-4d85-bbff-1c6ce11f52c1.gif" width="20px">
+### Hola a todos! | Hi everyone! <img src="https://user-images.githubusercontent.com/84038648/131946864-caf8431f-454f-4d85-bbff-1c6ce11f52c1.gif" width="25px">
 
-#Alexis Zacre
+# Alexis Zacre
 
 Mi nombre es Alexis Zacre. Tengo 19 años y soy un entusiasta de la programación y mas especificamente del desarrollo back-end!.
 
