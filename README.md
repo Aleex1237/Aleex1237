@@ -1,7 +1,9 @@
 ### Hola a todos! | Hi everyone! 👋
 
+#Alexis Zacre
 
-**Aleex1237** 
+Mi nombre es Alexis Zacre. Tengo 19 años y soy un entusiasta de la programación y mas especificamente del desarrollo back-end!.
+
 <div style:"display-flex">
 <img src="https://user-images.githubusercontent.com/84038648/129976660-29a75be9-854f-4259-a81a-a09b98d02b45.png" width="50px">
 
