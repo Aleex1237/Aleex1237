@@ -13,6 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/84038648/129976666-51c11b55-0ff4-4ca5-9c29-a8ab3143bd4c.png" width="50px">
 </div>
-[Mi linkedin!](https://www.linkedin.com/in/alexis-zacre-660a3a20b/)
-<a href="https://www.linkedin.com/in/alexis-zacre-660a3a20b/">Mi linkedin</a>
+
+<a href="https://www.linkedin.com/in/alexis-zacre-660a3a20b/">Mi linkedin! <img src="https://user-images.githubusercontent.com/84038648/131944199-720c4432-f271-41d2-82cc-3a71b603ac82.png" width="10px"></a>
 
