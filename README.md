@@ -4,6 +4,8 @@
 
 Mi nombre es Alexis Zacre. Tengo 19 años y soy un entusiasta de la programación y mas especificamente del desarrollo back-end!.
 
+[![Aleex1237's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleex1237)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style:"display-flex">
 <img src="https://user-images.githubusercontent.com/84038648/129976660-29a75be9-854f-4259-a81a-a09b98d02b45.png" width="50px">
 
