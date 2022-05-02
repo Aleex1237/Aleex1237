@@ -10,7 +10,7 @@
   -  [API SomosMas](https://github.com/alkemyTech/OT-96-Server)
   -  [Home Experience](https://github.com/Aleex1237/Grupo_6_HomeExperience)
 
-- 🌱 Actualmente estoy aprendiendo sobre: **MongoDB, Mongoose, Python y sigo aprendiendo sobre NodeJs**
+- 🌱 Actualmente estoy aprendiendo sobre: **MongoDB, Mongoose y sigo aprendiendo sobre NodeJs**
 
 - 📫 Como contactarme: **alexis10893123@gmail.com**
 
